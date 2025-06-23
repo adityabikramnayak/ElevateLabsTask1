@@ -1,5 +1,4 @@
-# ElevateLabsTask1
-Completed objectives mentioned in task 1 for ElevateLabs Internship
+
 # Task 1 - Data Cleaning & Preprocessing (Titanic Dataset)
 
 ## 🎯 Objective
